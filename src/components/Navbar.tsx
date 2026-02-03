@@ -1,3 +1,5 @@
+import ThemeToggle from "@/components/ThemeToggle";
+
 import { SITE } from "@/components/site";
 
 const links = [
